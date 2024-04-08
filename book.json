@@ -1,0 +1,57 @@
+{   "title": "UCSD Course Review",
+    "author": "Tsung-Hsiang Ma",
+    "language": "zh-hant",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus",
+        "anchors",
+        "advanced-emoji",
+        "alerts",
+        "edit-link",
+        "toggle-chapters",
+        "hide-published-with",
+        "toolbar",
+        "theme-comscore",
+        "splitter",
+        "github",
+        "insert-logo"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook/edit/master",
+            "label": ""
+        },
+        "toolbar": {
+            "buttons": [
+                {
+                    "label": "",
+                    "icon": "fa fa-file-pdf-o",
+                    "position":"left",
+                    "url": "https://raw.github.com/Dawson-ma/UCSD-Course-Review/main/_export/ucsd-course-reivew.pdf"
+                }
+            ]
+        },
+        "github": {
+            "url": "https://github.com/Dawson-ma/UCSD-Course-Review"
+        },
+        "insert-logo": {
+            "url": "/UCSD-Course-Review/img/logo.png",
+            "style": "background: none;"
+        }
+    },
+    "pdf": {
+        "pageNumbers": true, 
+        "paperSize": "a4",
+        "fontFamily": "Songti TC",
+        "fontSize": 16,
+        "margin": {
+            "top": 60,
+            "bottom": 50,
+            "left": 30,
+            "right": 30
+        }
+    }
+}
