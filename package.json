@@ -1,7 +1,7 @@
 {
   "name": "ucsd-course-review",
   "version": "1.0.0",
-  "description": "",
+  "description": "Helping people in understanding the UCSD courses",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,12 +9,15 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dawson-ma/UCSD-Course-Review/tree/main"
+    "url": "git+https://github.com/Dawson-ma/UCSD-Course-Review.git#main"
   },
   "homepage": "https://dawson-ma.github.io/UCSD-Course-Review",
   "author": "Tsung-Hsiang Ma",
   "license": "ISC",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Dawson-ma/UCSD-Course-Review/issues"
   }
 }
