@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Preface](Preface/README.md)
-* [ECE](ECE/ECE.md)
-* [CSE](CSE/CSE.md)
+* [ECE](ECE/README.md)
+* [CSE](CSE/README.md)
 * [Editors](Editors/README.md)
-* [Contributing](Contributing.md)
+* [Contributing](Contributing/README.md)
