@@ -86,4 +86,3 @@
     * [ECE 285 Machine Learning for Image Processing](/ECE/ECE200+/ECE85ML.md)
     * [ECE 285 Introduction to Visual Learning](/ECE/ECE200+/ECE285VL.md)
 * [Editors](Editors/README.md)
-* [Contributing](Contributing/README.md)
