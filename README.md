@@ -1,2 +1,0 @@
-# UCSD-Course-Review
-
