@@ -1,5 +1,7 @@
 # Contributing
-如果你希望透過 Pull Request 貢獻你對課程評價，請參考以下的模板：
+如果你希望透過 Pull Request 貢獻你對課程評價，請參考以下的模板：   
+（小提醒：記得同時更新SUMMARY.md與該科系目錄裡的README.md）
+
 # ECE 269 Linear Algebra
 
 ## 2024
