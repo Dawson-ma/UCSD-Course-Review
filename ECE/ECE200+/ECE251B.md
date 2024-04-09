@@ -1,1 +1,0 @@
-# ECE 251B Digital Signal Processing II
