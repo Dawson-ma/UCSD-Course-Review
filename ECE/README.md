@@ -1,4 +1,4 @@
 # ECE
 
-* [ECE 143](/ECE/ECE143.md)
-* [ECE 164](/ECE/ECE164.md)
+* [ECE 143 Programming for Data Analysis](/ECE/ECE143.md)
+* [ECE 164 Analog Integrated Circuit Design](/ECE/ECE164.md)
