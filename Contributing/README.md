@@ -1,6 +1,6 @@
 # Contributing
 如果你希望透過 Pull Request 貢獻你對課程評價，請參考以下的模板：   
-（小提醒：記得同時更新SUMMARY.md與該科系目錄裡的README.md）
+(小提醒：記得更新[SUMMARY.md](/SUMMARY.md)、該科系和該科系分類目錄裡的README.md (e.g. ECE/README.md and ECE/ECE200+/README.md))
 
 # ECE 269 Linear Algebra
 
