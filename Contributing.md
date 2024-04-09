@@ -3,7 +3,7 @@
 # ECE 269 Linear Algebra
 
 ## 2024
-### Quarter: Winter
+### Winter
 - Professor: Pengtao Xie
 - Rating: x/10
 - Grading: x/10
@@ -24,7 +24,7 @@
 - Detailed Review:
 快逃
 
-### Quarter: Fall
+### Fall
 - Professor: 
 - Rating: x/10
 - Grading: x/10
