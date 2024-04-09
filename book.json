@@ -21,7 +21,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook/edit/master",
+            "base": "https://github.com/Dawson-ma/UCSD-Course-Review/edit/main",
             "label": ""
         },
         "toolbar": {
