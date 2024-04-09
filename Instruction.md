@@ -33,7 +33,7 @@
 19. 等待約3至5分鐘，就可以在[這裡](https://dawson-ma.github.io/UCSD-Course-Review/)看到更改成功
 
 ## Troubleshooting
-歡迎大家將遇到的問題與解決方法寫在這裡，以後遇到相同的問題能夠更快速解決！
+歡迎大家將遇到的問題與解決方法寫在這裡，以後遇到相同的問題能夠更快速解決！  
 可以在[這裡](https://github.com/Dawson-ma/UCSD-Course-Review/actions)看是否有成功Build和Deploy。
 
 1. 更新後沒有正常顯示  
