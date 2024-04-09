@@ -1,7 +1,4 @@
-# Contributing
-如果你希望透過 Pull Request 貢獻你對課程評價，請參考以下的模板：   
-(小提醒：記得更新[SUMMARY.md](/SUMMARY.md)、該科系和該科系分類目錄裡的README.md (e.g. ECE/README.md and ECE/ECE200+/README.md))
-
+# Template
 # ECE 269 Linear Algebra
 
 ## 2024
@@ -24,7 +21,7 @@
 - Course Content:  
 線性代數、PCA、SVD…
 - Detailed Review:  
-快逃
+很多 track 的 必修，數學課，全程板書上課，老師講話和寫的內容都很不清楚。兩次考試，內容基本跟作業無關，蠻難的  
 
 ### Fall
 - Professor: 

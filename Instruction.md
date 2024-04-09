@@ -1,10 +1,11 @@
 # Instruction
-這是編輯團隊的編輯指南
+編輯團隊的編輯指南  
+如果你希望透過 Pull Request 來貢獻也歡迎參照[模板](/Template/README.md)撰寫評論喔！
 
 ## Steps
 ### 要更新的課程已經有所屬.md檔 (假設要更新ECE143，但ECE/ECE100-199已經有ECE143.md)
 1. 點開該.md檔
-2. 根據 Contributing 資料夾下的[模板](/Contributing/README.md)撰寫評論
+2. 根據 Template 資料夾下的[模板](/Template/README.md)撰寫評論
 3. 完成後右上角 Commit changes...
 4. 彈出一個視窗後按右下角 Commit changes
 5. 等待約3至5分鐘，就可以在[這裡](https://dawson-ma.github.io/UCSD-Course-Review/)看到更改成功
@@ -13,7 +14,7 @@
 1. 到想要新增評價的課程資料夾下 (如ECE200+)
 2. 按右上角 Add file -> Create new file
 3. 取名為 科系課號.md (如ECE201.md)
-3. 根據 Contributing 資料夾下的[模板](/Contributing/README.md)撰寫評論
+3. 根據 Template 資料夾下的[模板](/Template/README.md)撰寫評論
 4. 完成後右上角 Commit changes...
 5. 彈出一個視窗後按右下角 Commit changes
 6. 到該層資料夾 README.md 檔 (如到ECE200+/README.md)
