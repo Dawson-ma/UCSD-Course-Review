@@ -29,4 +29,4 @@
 - Course Content:  
 Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.
 - Review:  
-<p>Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.</p>
+Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.
