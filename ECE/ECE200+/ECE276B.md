@@ -1,1 +1,0 @@
-# ECE 276B Planning & Learning in Robotics

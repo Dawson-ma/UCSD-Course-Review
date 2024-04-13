@@ -1,1 +1,0 @@
-# CSE 252A Computer Vision I

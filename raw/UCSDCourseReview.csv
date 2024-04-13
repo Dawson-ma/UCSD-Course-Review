@@ -1,0 +1,54 @@
+Timestamp,Email Address,課號 (e.g. 228),課程名稱 (e.g. Machine Learning for Physical Application),選課原因,整體推薦程度,Year (e.g. 2024),Quarter (Fall/Winter/Spring/Summer),Professor (e.g. Gabriel M. Rebeiz),"Grading Structure (e.g. HW: 50%,Final: 50%,...；照這個格式打我們會感激你的)","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [A+]",Loading,Grading,課程內容 (上什麼),詳細評價 (教學方式、口音etc),其他想給編輯團隊的建議/補充資訊,成績平均,姓名 (我們會把你列在Contibutors),課程科系碼 (e.g. ECE),"成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [A]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [A-]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [B+]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [B]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [B-]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [C+]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [C]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [C-]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [D]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [F]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [S]","成績分布 (Academic History可查詢)(e.g. A+:5%, ..., B+:10%, ...) [U]"
+4/9/2024 13:43:41,yuc175@ucsd.edu,175,Machine Learning for Social Scientists,Selective,6,2023,Winter,Umberto Mignozzetti,"HW: 96%,Participation: 4%,Credit: 5%",15,4,10,"基礎的ML: regression, sum, tree, boosting, etc
+2023 Winter用Julia，see: https://github.com/umbertomig/POLI175julia/tree/main",歐洲口音；會帶過最常見的幾種演算法，理論跟應用都會帶到，但數學部分不會講很細，作業也是copy paste講義就可以寫完；要主動去找老師討論、問問題才學得到東西,,,,POLI,85,,,,,,,,,,,
+4/9/2024 15:54:22,t8ma@ucsd.edu,143,Programming for Data Analysis,Interest,8,2020,Spring,José Unpingco,"HW:40%,Final Project:40%,Credit: 20%",45,3,9,Basic Python,每個禮拜都有作業 3-4 簡單 coding + 期末 project。作業沒很難 只是題目都不會講清楚 要讓你去想 去 piazza 問 去 office hour 這樣 至於 project 就爬爬蟲作作圖 只是組員是被隨機分配的 所以有可能會有極 carry 隊員 或是極廢。根據老師上課說明，他會根據每 quarter 的 feedback 去調整課程內容，作業只會越來越難 (這學期口述)(（補）假的，github 隨便找就好，而且每學期的平均gpa 一直提高)，這學期有建議他錄影片，不然上課快到基本上就是你聽過也不會記得要幹嘛，等到要用才會自己 google 查 (反正沒人真的在認真上課= =)。,,3.94,馬琮翔,ECE,,,,,,,,,,,,
+4/9/2024 16:06:24,t8ma@ucsd.edu,143,Programming for Data Analysis,Core,8,2024,Fall,José Unpingco,"HW:40%,Final Project:40%,Credit: 20%",55,3,9,Basic Python,"有程式基礎的人修起來毫無壓力，作業題目很多都是Leetcode題目，有些比較繁瑣但都不會太難。上課內容非常基礎，會講到Python很多基礎Function, Generator, 運作方式，如果基礎沒打好可以在這堂課補回來。期末Project是隨機分組跟上台報告，組員就看你平常做多少好事，Project內容都不會太難。",,3.9,馬琮翔,ECE,30,10,,,,,,,,,,
+4/9/2024 16:51:35,hyuchen@ucsd.edu,253A,Mech/Design Composite Str,Selective,8,2023,Fall,Mehran Tehrani,"HW: 25%,Lab: 25%,Midterm: 25%,Final: 25%",5,3,5,一些複合材料的基本應力分析,教學甚麼的都不錯，可能是因為他第一年在UCSD教書所以不熟悉出題形式之類的，所以大家期中期末整體考得偏爛，明年應該會改善不少，對複材有興趣的還是值得上。,教學甚麼的都不錯，可能是因為他第一年在UCSD教書所以不熟悉出題形式之類的，所以大家期中期末整體考得偏爛，明年應該會改善不少，對複材有興趣的還是值得上。,3.22,蕭羽宸,SE,0,10,10,5,10,5,10,10,30,,,
+4/9/2024 16:51:35,hyuchen@ucsd.edu,142,Mech/Design Composite Str,Selective,8,2023,Fall,Mehran Tehrani,"HW: 25%,Lab: 25%,Midterm: 25%,Final: 25%",5,3,5,一些複合材料的基本應力分析,教學甚麼的都不錯，可能是因為他第一年在UCSD教書所以不熟悉出題形式之類的，所以大家期中期末整體考得偏爛，明年應該會改善不少，對複材有興趣的還是值得上。,教學甚麼的都不錯，可能是因為他第一年在UCSD教書所以不熟悉出題形式之類的，所以大家期中期末整體考得偏爛，明年應該會改善不少，對複材有興趣的還是值得上。,3.22,蕭羽宸,SE,0,10,10,5,10,5,10,10,30,,,
+4/9/2024 17:17:37,t8ma@ucsd.edu,164,Analog Integrated Circuit Design,Core,6,2019,Fall,Drew Hall,"HW*6 (Lowest will be drop): 15%,Project: 20%,Midterm: 25%,Final: 40%",0,7,5,Project通常是做一顆opamp，有相關經驗者或許不會太難，但還是會吃掉一些時間，沒經驗者可能會很痛苦,"作業最低分一次會被刪掉，所以前面幾次都拿不錯分數的話最後一次可以不用交。期中考偷考 BJT (上課完全沒提)，哀鴻片野，有可能以後還會出招。作業會有一些模擬題，老師會找人上台分享。學過電子學的話還滿簡單的，會從小信號教起，跟一些基本的電路 (CS, CG, CD) 到 bias circuit 等等。作業可以找學長姐要，幾乎一樣。EC78 蠻多 grad 都會修的，當第一個 quarter 熱身。老師不會給 grad A+。",,,馬琮翔,ECE,,,,,,,,,,,,
+4/9/2024 18:31:19,h2kuo@ucsd.edu,208,Mathematics for Engineers,Core,7,2023,Fall,Padmini Rangamani,"HW: 20%,MT1: 20%,MT2: 20%,Final: 40%",5,8,4,"ODE, Linear Algebra, Fourier Analysis, PDE, Complex algebra",這堂課算是複習undergrad工數的全部內容。雖然在10周內cover這麼多content有點硬，但是我覺得之後修的課多少都有用到一點這堂課教的東西，還蠻有用的。因為內容很多，所以老師上課講很快，大部分的東西都沒有認真推導，我自己都是自己讀課本。這個老師對於研究生的數學能力蠻要求的，所以出的作業和考試都偏難，可能是這樣所以班平均成績才會不高。,,2.93,郭瀚翔,MAE,5,0,15,30,30,5,10,5,0,0,,
+4/9/2024 18:44:09,h2kuo@ucsd.edu,210A,Fluid Mechanics I,Interest,9,2023,Fall,David Saintillian,"HW: 30%,MT1: 25%,Final: 45%",30,9,7,"Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.","Basic conservation laws. Flow kinematics. The Navier-Stokes equations and some of its exact solutions. Nondimensional parameters and different flow regimes, vorticity dynamics.",,3.23,郭瀚翔,MAE,10,0,10,10,10,0,5,10,0,0,,
+4/9/2024 18:53:48,h2kuo@ucsd.edu,290A,Numerical Algebra & ODE Simulation,Interest,7,2023,Fall,Harsh Sharma,"HW: 40%,MT1: 25%,Final: 35%",20,7,8,"Fundamental concepts in numerical linear algebra. Fundamental matrix decompositions: LU, Cholesky, QR, Eigen, Schur, Jordan, SVD; how to compute them. Solution of large linear systems via iterative methods (Lanczos, Arnoldi, CG, GMRES). Stability of algorithms and conditioning of mathematical problems. Finite precision arithmetic and roundoff issues.",老師上課用平板寫筆記，口音有點重，字很醜，教的不是很好。作業只有四次，大部分是MATLAB的coding題目，不會很難。缺點是考試都是考推導，而且是closed book，跟作業內容差蠻多的，所以考試不容易準備。期中班平均不高，期末考老師有放水所以考比較簡單。沒有調分。,,3.41,郭瀚翔,MAE,15,20,10,10,10,0,0,0,0,0,5,0
+4/9/2024 21:42:14,nisong@ucsd.edu,226,Foundations of Bioengineering I: Properties of Tissues and Cells,Core,3,2023,Winter,Geert Schmid-Schoenbein," HW: 50%, Midterm: 25%, Final: 25%",5,10,3,"Biomechanics application, required to design experiments","No class slide or notes posted online. The homework and exams are difficult to understand. He'll answer/explain exam questions during exam, but not really helpful.",,3.45,Irene Song,BENG,30,5,15,15,5,5,5,0,0,0,0,0
+4/11/2024 1:59:30,chw120@ucsd.edu,CSE276C,Mathematics for Robotics ,Selective,7,2023,Fall,Henrik I Christensen,"HW: 100% (5 HWs, each 20%)",20,8,10,"各種Robotics會用到的數學知識，包含 Perception (camera model, point cloud registration), Numerical methods (RK, Cubic Spline...), Robot Kinematics, PCA, Path Planning (A*, RRT, PRM...)  ",Henrik 人非常好但教的不怎麼好，作業不太需要上課也能完成，作業涵蓋的內容大概只佔了課程的一半，時間有限的話可以跳過一些 lectures.,,Class GPA : 3.75,"Chung Pang, Wang",ECE,30,10,5,10,5,0,5,,,,10,5
+4/11/2024 20:37:59,yuh112@ucsd.edu,164,Analog Integrated Circuit Design,Selective,9,2023,Fall,Drew A. Hall,"HW: 15%,Midterm: 25%,Final: 40%, Final Project:20%",5,8,4,電子學基礎、CS/CG/CD amplifier、OTA、bias circuit、frequency response、compensation(basics),"164是EC78必修課(264系列)的先修，雖然理論上不修還是可以靠大學的課waive掉prerequisite選264A，但很多人會拿來當第一個學期的熱身。Prof. Hall教得非常好，上課生動，並且幾乎是從最基礎的電子學開始教，就算大學已經忘光了也沒有關係。
+
+作業量算偏多，每一個作業都會用Cadence畫電路跑模擬，也會有手寫的計算題，因此在quarter制(12週)之下，每個作業的deadline幾乎都是一週多1~2天，略趕。好消息是6個作業分數只取前5高，因此很多人會drop最後一個作業專心做project。
+
+Final project以往都是設計一顆Op-Amp，結構會給，但transistor和RC的參數要自己手算來meet given spec，對於沒有經驗的人來說會有一點困難。而且因為給分會評approach和power consumption，有可能變成無止盡的軍備競賽。
+
+期中跟期末都會有一定數量的考古題，也會有需要融會貫通的題目，需要把作業做熟。給分看起來偏低，但我猜是因為有些大學生到後面放棄了，實際上可能還好，另外教授不會給graduate A+。
+
+整體來說雖然修完會很累，但基礎也會打得很好，上課的內容幾乎可以cover相關面試的基礎題目，推薦EC78的同學修。",,2.9,,ECE,10,15,15,15,10,5,5,0,0,0,,
+4/11/2024 20:40:47,yuh112@ucsd.edu,166,Microwave Systems & Circuits,Selective,10,2023,Fall,Gabriel M. Rebeiz,"HW: 16%,Lab: 6%,Midterm: 34%,Final: 44%",,7,7,"Transmission line, matching network, Smith chart, S parameter, coupler, basic LNA design","課程網站(所有的上課講義、作業、考古題、解答都在網站上)：https://sites.google.com/eng.ucsd.edu/ece166/home?authuser=0
+和164同理，166是265系列的先修課，也強烈建議可以在第一個學期修，和166並稱upper division 2大circuit神課，想打好RF基礎的話不能錯過。
+
+Prof. Rebeiz在業界的學生超級多，通訊電路兩大公司MediaTek和Qualcomm裡面一堆他的學生。教授很擅長把困難的東西解釋得很清楚，上課時也很鼓勵學生問問題，但不喜歡同學在上課的時候用電腦和手機(有機會被他請出去)，所以上課前建議把講義印出來或載到iPad上面做筆記。另外也堅持不開podcast和錄影。上課內容會從RF最基礎的transmission line開始，最後帶到一些基本的RF元件和S參數，會用到大量的smith chart。
+
+作業量算偏多，但因為每年的題目都大同小異，所以教授不反對你去抄答案，助教改作業的標準也比較寬鬆。同時期中考和期末考根據教授的說法, ""The course material is already very hard, so the midterm and final is not designed to trick you. Just do the past exams and you'll be fine.""基本上確實如此，但要搞懂課程內容是要花一些時間的。Lab只要人出現就好，助教會示範實驗，不用交報告。Office hour和助教的session可以去，通常大助帶的都會超有料，可以補足一些上課沒聽懂的觀念。
+
+另外如果拿A+的話，教授可能會直接強推你到他學生的公司實習。",,,,ECE,,,,,,,,,,,,
+4/11/2024 20:43:51,yuh112@ucsd.edu,260A,VLSI Digital System Algorithms & Architectures,Selective,6,2023,Fall,John A. Eldon,"HW:  25%,2 Midterms: 20% each,Final: 35%",30,3,8,"VLSI basics, delay, adders, FinFet","UCSD數位系列課起點。教授年紀比較大，所有的課都排在早八，而且教的比較隨性，所以很多人2~3堂課之後就不來了，期中期末才會知道原來有這麼多人修。
+
+上課內容算是所有做數位的人都需要知道的入門知識，尤其MOS基礎原理、delay的計算、STA幾乎每個面試都會問到。缺點就是因為教授教得太隨性了，課程資料夾又幾乎沒有整理，所以基本上要自己學所有的內容。作業會涵蓋計算、電路模擬和Verilog，但整體來說負擔不大，約2~3個下午可以完成。
+
+某種程度上教授可能也知道自己的上課內容可能會讓大家抓不到要讀什麼，所以期中期末前都會有大洩題，告訴你有幾題、考什麼。但儘管如此，第一次考試的時候還是會有可能抓不到他出題的方向，而且可能會來不及寫完，可以跟學長姐諮詢一下。整體成績感覺也有調過，且A只要85%，算偏甜的課。",,3.48,,ECE,20,20,20,5,,,,,,,,
+4/11/2024 21:46:03,yuh112@ucsd.edu,250,Random Processes,Selective,6,2024,Winter,Paul H. Siegel,"Participation(Online quiz): 5%,HW: 15%,2 Midterms: 25% each,Final: 30%",5,6,5,"Probability, statistics, random process","ECE250似乎不是任何一個track的必修課，但是是很多track的選修，所以修課人數算蠻多的。
+
+上課講義有兩個版本，一個是印刷的(自己看)，一個是教授手寫(上課用)，內容一樣，個人感覺印刷的版本比較清楚。教授感覺已經上過這門課很多次，好處是問他問題基本上都會有很好的答案，壞處是因為他已經對教材太熟所以有可能教的不夠清楚。某種程度上也導致作業偶爾需要自己通靈(另外助教改的時候會很注重過程，所以要盡量寫得詳細一點)。
+
+期中期末都可以帶大抄，但期末考開考前5分鐘才跟我們說大抄上不能有作業、考古題的解答。但其實也沒有在檢查，不知道什麼意思。我猜大概是因為沒什麼時間重新出題所以常常會考考古題，之後休克的人務必多練習canvas上面的考古題。
+
+給分稍微不甜，有機會的話可以修Spring的。",,3.1,,ECE,10,5,30,20,10,5,0,5,,,,
+4/11/2024 22:18:29,yuh112@ucsd.edu,264A,Analog Integrated Circuits and Systems I,Core,6,2024,Winter,Ian A. Galton,"Midterm: 50%(考兩次，取最高),Final: 50%",,6,7,"MGF, ZVTC, BIR, AGR, stability, phase margin/gain margin, compensation","EC78必修課，不走類比的人絕對不會想來修，所以好像也沒什麼推不推薦的問題(?課程內容是十分重要的，也算是脫離了大學接觸到的電子學，開始接觸到很多能夠更快理解並分析電路的方式，認真學的話會學到很多新東西。
+
+但是！上課採用翻轉教室，教授把課程放在canvas上，上課時間給學生問問題。個人非常不喜歡，也不是翻轉教室應該有的樣子。教授跟學生的頻率常常對不上，所以上課時間偶爾會覺得很冗，尤其當我們問完問題但下課時間還沒到時，教授不會多補充相關的教材，反而會急著下課，有薪水小偷的嫌疑。課程影片喜歡放很多要同學自行推導的exercise，全部自己做的話會十分耗時。
+
+有6次作業但不算分，教授會拿來作為期末調分依據(根據他的說法是有認真寫且只差1分以內就可以到下一個等第的話會調，所以其實差距也沒多大)。但還是強烈建議要寫作業，不然期中期末高機率死亡。期中考考2次，取一次較高的成績。感覺最終的分數也有調過所以要拿A-以上並不難。",,3.28,,ECE,40,5,20,10,10,10,5,,,,,
+4/11/2024 22:42:47,yuh112@ucsd.edu,265A,Communication Circuit Design I ,Core,8,2024,Winter,Prasad S.S. Gudem,"HW: 45%,Attendance: 15%,Final: 40%",5,8,6,"Analog&Digital Modulation, Optimum Detection, Noise, Linearity, ADC/DAC, Mixers, Frequency Analyzer","EC78必修課，範圍是RF系統設計，同樣應該也不會有其他program的人想來修XD。
+
+教授是前Qualcomm大佬，在業界的經驗非常豐富，人脈也很廣，2020年帶著他在業界的經驗回來教265系列，結果因為教得太難哀鴻遍野，至今還在校正回歸。但不得不說雖然教的很難，但全部上完之後會對RF系統設計有非常清楚的了解，也會知道很多學校和業界在設計上考量的點的差異。
+
+教授秉持著學到東西比分數重要的精神，整個學期只出3次作業和一個final。作業由於也是全自創，難度非常大，很需要靠助教或通靈之術。Final是完全open book，可以直接帶電腦去考試，反正題目問ChatGPT也不會有答案。雖然難度還是很大，但由於隨著時間過去能參考的考古題越來越多，所以應該不會像前2年那麼痛苦。
+
+順帶一提265B之後又會回到電路設計的範疇，個人覺得有點可惜，因為265A可能已經嚇跑很多人了。(但265C算是不要求先修265B，可以休息一個學期再回來學power amplifier)。",,3.55,,ECE,20,25,25,15,,,,,,,,

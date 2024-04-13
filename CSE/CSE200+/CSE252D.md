@@ -1,1 +1,0 @@
-# CSE 252D Advanced Computer Vision

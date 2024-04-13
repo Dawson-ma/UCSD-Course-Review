@@ -1,1 +1,0 @@
-# CSE 232A Graduate Database Systems
