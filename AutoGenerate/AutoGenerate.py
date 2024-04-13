@@ -77,19 +77,19 @@ def AutoGenerate(csv_file_path):
                 category = f'{dept}100-199'
             else:
                 category = f'{dept}200+'
-            category_dict[category].append(f'* [{dept} {course} {course_name}](/{dept}/{category}/{dept}{course}.md)')
+            category_dict[category].append(f'* [{dept} {course} {course_name}](Department/{dept}/{category}/{dept}{course}.md)')
 
             # Get unique years for the course
             years = OrderedSet(df[(df['Department'] == dept) & (df['Course_Number'] == course)]['Year'])
 
             # Create directory if not exist
-            if not os.path.exists(f'./{dept}'):
-                os.makedirs(f'./{dept}')
-            if not os.path.exists(f'./{dept}/{category}'):
-                os.makedirs(f'./{dept}/{category}')
+            if not os.path.exists(f'./Department/{dept}'):
+                os.makedirs(f'./Department/{dept}')
+            if not os.path.exists(f'./Department/{dept}/{category}'):
+                os.makedirs(f'./Department/{dept}/{category}')
             
             # Write to .md file
-            with open(f'./{dept}/{category}/{dept}{course}.md', 'w', encoding='utf-8') as f:
+            with open(f'./Department/{dept}/{category}/{dept}{course}.md', 'w', encoding='utf-8') as f:
                 f.write(f"# {dept} {course} {course_name}\n")
                 f.write(f"- Average Rating: {df[(df['Department'] == dept) & (df['Course_Number'] == course)]['Rating'].mean()}\n")
                 f.write(f"- Average Grading: {df[(df['Department'] == dept) & (df['Course_Number'] == course)]['Grading'].mean()}\n")
@@ -145,20 +145,20 @@ def AutoGenerate(csv_file_path):
                                 f.write(f"  - {grading}\n")
                             f.write(f"- Course Content:  \n")
                             f.write(f"{response['Content']}\n")
-                            f.write(f"- Review:  \n")
+                            f.write(f"- Review:..")
                             f.write(f"{response['Review']}\n")
 
         try: 
             for category in sorted(category_dict.keys()):
-                with open(f'./{dept}/{category}/README.md', 'w', encoding='utf-8') as f:
+                with open(f'./Department/{dept}/{category}/README.md', 'w', encoding='utf-8') as f:
                     f.write(f"# {category[:len(dept)]} {category[len(dept):]}\n")
                     for course in category_dict[category]:
                         f.write(course + '\n')
             
-            with open(f'./{dept}/README.md', 'w', encoding='utf-8') as f:
+            with open(f'./Department/{dept}/README.md', 'w', encoding='utf-8') as f:
                 f.write(f"# {dept}\n")
                 for category in sorted(category_dict.keys()):
-                    f.write(f"* [{category[:len(dept)]} {category[len(dept):]}](/{dept}/{category}/README.md)\n")
+                    f.write(f"* [{category[:len(dept)]} {category[len(dept):]}](/Department/{dept}/{category}/README.md)\n")
                     for course in category_dict[category]:
                         f.write('  ' + course + '\n')
         except FileNotFoundError:
@@ -173,9 +173,9 @@ def AutoGenerate(csv_file_path):
         f.write("* [Introduction](README.md)\n")
         f.write("* [Preface](Preface/README.md)\n")
         for dept in sorted(dept_dict.keys()):
-            f.write(f"* [{dept}](/{dept}/README.md)\n")
+            f.write(f"* [{dept}](/Department/{dept}/README.md)\n")
             for category in sorted(dept_dict[dept].keys()):
-                f.write(f"  * [{category[:len(dept)]} {category[len(dept):]}](/{dept}/{category}/README.md)\n")
+                f.write(f"  * [{category[:len(dept)]} {category[len(dept):]}](/Department/{dept}/{category}/README.md)\n")
                 for course in dept_dict[dept][category]:
                     f.write('    ' + course + '\n')
         f.write("* [Editors](Editors/README.md)\n")
