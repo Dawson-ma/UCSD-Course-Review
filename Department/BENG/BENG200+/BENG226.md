@@ -31,6 +31,6 @@
 - Course Content:  
 Biomechanics application, required to design experiments
 - Review:  
-<details>
+```
 No class slide or notes posted online. The homework and exams are difficult to understand. He'll answer/explain exam questions during exam, but not really helpful.
-</details>
+```

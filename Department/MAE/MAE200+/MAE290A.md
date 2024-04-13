@@ -31,6 +31,6 @@
 - Course Content:  
 Fundamental concepts in numerical linear algebra. Fundamental matrix decompositions: LU, Cholesky, QR, Eigen, Schur, Jordan, SVD; how to compute them. Solution of large linear systems via iterative methods (Lanczos, Arnoldi, CG, GMRES). Stability of algorithms and conditioning of mathematical problems. Finite precision arithmetic and roundoff issues.
 - Review:  
-<details>
+```
 老師上課用平板寫筆記，口音有點重，字很醜，教的不是很好。作業只有四次，大部分是MATLAB的coding題目，不會很難。缺點是考試都是考推導，而且是closed book，跟作業內容差蠻多的，所以考試不容易準備。期中班平均不高，期末考老師有放水所以考比較簡單。沒有調分。
-</details>
+```

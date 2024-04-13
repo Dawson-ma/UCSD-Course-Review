@@ -27,6 +27,6 @@
 - Course Content:  
 各種Robotics會用到的數學知識，包含 Perception (camera model, point cloud registration), Numerical methods (RK, Cubic Spline...), Robot Kinematics, PCA, Path Planning (A*, RRT, PRM...)  
 - Review:  
-<details>
+```
 Henrik 人非常好但教的不怎麼好，作業不太需要上課也能完成，作業涵蓋的內容大概只佔了課程的一半，時間有限的話可以跳過一些 lectures.
-</details>
+```
