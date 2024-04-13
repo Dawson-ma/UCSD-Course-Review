@@ -166,18 +166,24 @@ def AutoGenerate(csv_file_path):
             pass
 
         dept_dict[dept] = category_dict
+        
+    with open(f'./Department/README.md', 'w', encoding='utf-8') as f:
+        f.write("# Department\n")
+        for dept in sorted(dept_dict.keys()):
+            f.write(f"* [{dept}](/Department/{dept}/README.md)\n")
     
     # Write to summary.md
     with open('./SUMMARY.md', 'w', encoding='utf-8') as f:
         f.write("# Summary\n")
         f.write("* [Introduction](README.md)\n")
         f.write("* [Preface](Preface/README.md)\n")
+        f.write("* [Department](Department/README.md)\n")
         for dept in sorted(dept_dict.keys()):
-            f.write(f"* [{dept}](/Department/{dept}/README.md)\n")
+            f.write(f"  * [{dept}](/Department/{dept}/README.md)\n")
             for category in sorted(dept_dict[dept].keys()):
-                f.write(f"  * [{category[:len(dept)]} {category[len(dept):]}](/Department/{dept}/{category}/README.md)\n")
+                f.write(f"    * [{category[:len(dept)]} {category[len(dept):]}](/Department/{dept}/{category}/README.md)\n")
                 for course in dept_dict[dept][category]:
-                    f.write('    ' + course + '\n')
+                    f.write('      ' + course + '\n')
         f.write("* [Editors](Editors/README.md)\n")
         f.write("* [Contributors](Contributors/README.md)")
 
