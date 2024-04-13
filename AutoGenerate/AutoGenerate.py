@@ -77,7 +77,7 @@ def AutoGenerate(csv_file_path):
                 category = f'{dept}100-199'
             else:
                 category = f'{dept}200+'
-            category_dict[category].append(f'* [{dept} {course} {course_name}](Department/{dept}/{category}/{dept}{course}.md)')
+            category_dict[category].append(f'* [{dept} {course} {course_name}](/Department/{dept}/{category}/{dept}{course}.md)')
 
             # Get unique years for the course
             years = OrderedSet(df[(df['Department'] == dept) & (df['Course_Number'] == course)]['Year'])
@@ -166,7 +166,7 @@ def AutoGenerate(csv_file_path):
             pass
 
         dept_dict[dept] = category_dict
-        
+
     with open(f'./Department/README.md', 'w', encoding='utf-8') as f:
         f.write("# Department\n")
         for dept in sorted(dept_dict.keys()):

@@ -1,2 +1,2 @@
 # SE 200+
-* [SE 253A Mech/Design Composite Str](Department/SE/SE200+/SE253A.md)
+* [SE 253A Mech/Design Composite Str](/Department/SE/SE200+/SE253A.md)
