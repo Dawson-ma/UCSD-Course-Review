@@ -145,8 +145,10 @@ def AutoGenerate(csv_file_path):
                                 f.write(f"  - {grading}\n")
                             f.write(f"- Course Content:  \n")
                             f.write(f"{response['Content']}\n")
-                            f.write(f"- Review:..")
+                            f.write(f"- Review:  \n")
+                            f.write(f"<details>\n")
                             f.write(f"{response['Review']}\n")
+                            f.write(f"</details>\n")
 
         try: 
             for category in sorted(category_dict.keys()):

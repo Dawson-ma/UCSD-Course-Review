@@ -19,4 +19,7 @@
 - Course Content:  
 基礎的ML: regression, sum, tree, boosting, etc
 2023 Winter用Julia，see: https://github.com/umbertomig/POLI175julia/tree/main
-- Review:..歐洲口音；會帶過最常見的幾種演算法，理論跟應用都會帶到，但數學部分不會講很細，作業也是copy paste講義就可以寫完；要主動去找老師討論、問問題才學得到東西
+- Review:  
+<details>
+歐洲口音；會帶過最常見的幾種演算法，理論跟應用都會帶到，但數學部分不會講很細，作業也是copy paste講義就可以寫完；要主動去找老師討論、問問題才學得到東西
+</details>
