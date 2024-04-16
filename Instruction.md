@@ -7,15 +7,17 @@
 Auto-Generate .md檔
 1. 將[專案](https://github.com/Dawson-ma/UCSD-Course-Review/tree/main) pull 到本地端
 2. 將[表單](https://docs.google.com/spreadsheets/d/1EvdOwx-ZwcU8SWFJwOivjJcNdeiZMCG_Az6764Enf8U/edit?usp=sharing)下載並放到剛剛 pull 下來專案中```./raw``` 資料夾中並取名```UCSDCourseReview.csv```
-3. 開啟 Terminal 並到[```./AutoGenerate```](https://github.com/Dawson-ma/UCSD-Course-Review/tree/main/AutoGenerate)
+3. 開啟 Terminal 並進入到[```./AutoGenerate```](https://github.com/Dawson-ma/UCSD-Course-Review/tree/main/AutoGenerate)資料夾
 4. 執行 ```AutoGenerate.py```
-5. 該程式會自動產生所有相關資料夾、 README.md 與 SUMMARY.md。(課程科系碼與課號如包含"/"將無法自動生成，需手動更新，建議是直接在表單中修改好。如有人填CSE158/258，將其分開成CSE158與CSE258兩個獨立回覆但內容一樣）
-6. 將檔案剪下並複製到根目錄 (替換掉原本的檔案)
-7. git add .
-8. git commit -m update
-9. git push origin main
+5. 該程式會自動產生所有相關資料夾、 README.md 在 Department 資料夾裡面與 SUMMARY.md。(課程科系碼與課號如包含"/"將無法自動生成，需手動更新，建議是直接在表單中修改好。如有人填CSE158/258，將其分開成CSE158與CSE258兩個獨立回覆但內容一樣）
+6. 刪除原本根目錄下的Department資料夾與SUMMARY.md檔
+7. 將新產生的Department資料夾與SUMMARY.md檔剪下並複製到根目錄 (替換掉原本的檔案)
+8. 在 Terminal 執行 git add -A
+9. 在 Terminal 執行 git commit -m update
+10. 在 Terminal 執行 git push origin main
 
 ### 手動更新
+非必要請不要使用手動更新，下次自動更新有大機率被覆蓋掉。
 #### 要更新的課程已經有所屬.md檔 (假設要更新ECE143，但ECE/ECE100-199已經有ECE143.md)
 1. 點開該.md檔
 2. 點擊右上角編輯
