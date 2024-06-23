@@ -1,0 +1,35 @@
+# MAE 232A Finite Element Methods in Solid Mechanics I
+- Average Rating: 10.0
+- Average Grading: 8.0
+- Average Loading: 8.0
+## 2023
+### Fall
+- Professor: Jiun-Shyan Chen
+- Rating: 10/10
+- Grading: 8/10
+- Loading: 8/10
+- Grade:
+  - Avg: 3.22
+  - A+: 0.0%
+  - A: 25.0%
+  - A-: 20.0%
+  - B+: 5.0%
+  - B: 15.0%
+  - B-: 15.0%
+  - C+: 5.0%
+  - C: 0.0%
+  - C-: 0.0%
+  - D: 0.0%
+  - F: 0.0%
+  - S: 10.0%
+  - U: 0.0%
+- Reason for Taking this Course: Core
+- Grading Structure:
+  - HW: 15%
+  -  Project: 15%
+  -  Midterm: 30%
+  -  Final: 40%
+- Course Content:  
+Finite element methods for linear problems in solid mechanics. Emphasis on the principle of virtual work, finite element stiffness matrices, various finite element formulations and their accuracy and the numerical implementation required to solve problems in small strain, isotropic elasticity in solid mechanics.
+- Review:  
+計算力學領域的必修，教授教得很詳細，每天都有office hour，小缺點是課程錄影品質不好。期中期末有照著作業和筆記練習基本上不會被刁難。總共有六次作業、兩次小project、跟final project，選了這堂建議其他堂選loading偏輕的課。

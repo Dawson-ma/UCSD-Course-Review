@@ -1,2 +1,10 @@
 # SE 200+
 * [SE 253A Mech/Design Composite Str](/Department/SE/SE200+/SE253A.md)
+* [SE 203A Structural Dynamics](/Department/SE/SE200+/SE203A.md)
+* [SE 280 Finite Elmnt Comp/Solid Mech](/Department/SE/SE200+/SE280.md)
+* [SE 253B Mech/Design Composite Str II](/Department/SE/SE200+/SE253B.md)
+* [SE 276A Finite Element Methods in Solid Mechanics I](/Department/SE/SE200+/SE276A.md)
+* [SE 276B Finite Element Methods in Solid Mechanics II](/Department/SE/SE200+/SE276B.md)
+* [SE 260A Aerospace Structural Mechanics I](/Department/SE/SE200+/SE260A.md)
+* [SE 262 Aerospace Structures Repair](/Department/SE/SE200+/SE262.md)
+* [SE 251B Mechanical Behavior of Polymers and Composites ](/Department/SE/SE200+/SE251B.md)
