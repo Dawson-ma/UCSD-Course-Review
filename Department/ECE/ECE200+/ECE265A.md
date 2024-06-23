@@ -1,7 +1,7 @@
 # ECE 265A Communication Circuit Design I 
-- Average Rating: 8.0
-- Average Grading: 6.0
-- Average Loading: 8.0
+- Average Rating: 7.5
+- Average Grading: 6.5
+- Average Loading: 7.5
 ## 2024
 ### Winter
 - Professor: Prasad S.S. Gudem
@@ -30,3 +30,29 @@ EC78必修課，範圍是RF系統設計，同樣應該也不會有其他program�
 教授秉持著學到東西比分數重要的精神，整個學期只出3次作業和一個final。作業由於也是全自創，難度非常大，很需要靠助教或通靈之術。Final是完全open book，可以直接帶電腦去考試，反正題目問ChatGPT也不會有答案。雖然難度還是很大，但由於隨著時間過去能參考的考古題越來越多，所以應該不會像前2年那麼痛苦。
 
 順帶一提265B之後又會回到電路設計的範疇，個人覺得有點可惜，因為265A可能已經嚇跑很多人了。(但265C算是不要求先修265B，可以休息一個學期再回來學power amplifier)。
+- Professor: Prasad Gudem
+- Rating: 7/10
+- Grading: 7/10
+- Loading: 7/10
+- Grade:
+  - A+: 5.0%
+  - A: 20.0%
+  - A-: 25.0%
+  - B+: 25.0%
+  - B: 15.0%
+  - B-: 0.0%
+  - C+: 0.0%
+  - C: 0.0%
+  - C-: 0.0%
+  - D: 0.0%
+  - F: 0.0%
+  - S: 5.0%
+  - U: 0.0%
+- Reason for Taking this Course: Core
+- Grading Structure:
+  - HW: 50%
+  -  Final: 50%
+- Course Content:  
+system level rf design
+- Review:  
+ppt reading, many ppt pages
