@@ -1,7 +1,16 @@
 import os
+import re
 import pandas as pd
 from ordered_set import OrderedSet
 from collections import defaultdict
+
+# Helper function to extract course number
+def extract_course_number(course_entry):
+    match = re.search(r'\[.* (\d+)', course_entry)
+    if match:
+        return int(match.group(1))
+    else:
+        return float('inf')  # In case the course number is not found, push to the end
 
 def AutoGenerate(csv_file_path):
     '''
@@ -152,14 +161,18 @@ def AutoGenerate(csv_file_path):
             for category in sorted(category_dict.keys()):
                 with open(f'./Department/{dept}/{category}/README.md', 'w', encoding='utf-8') as f:
                     f.write(f"# {category[:len(dept)]} {category[len(dept):]}\n")
-                    for course in category_dict[category]:
-                        f.write(course + '\n')
+                    # Sort courses by course number before writing
+                    sorted_courses = sorted(category_dict[category], key=extract_course_number)   
+                    for course in sorted_courses:
+                        f.write('  ' + course + '\n')
             
             with open(f'./Department/{dept}/README.md', 'w', encoding='utf-8') as f:
                 f.write(f"# {dept}\n")
                 for category in sorted(category_dict.keys()):
                     f.write(f"* [{category[:len(dept)]} {category[len(dept):]}](/Department/{dept}/{category}/README.md)\n")
-                    for course in category_dict[category]:
+                    # Sort courses by course number before writing
+                    sorted_courses = sorted(category_dict[category], key=extract_course_number)
+                    for course in sorted_courses:
                         f.write('  ' + course + '\n')
         except FileNotFoundError:
             print(f"Error: {dept} {category} README.md not found.")
@@ -182,7 +195,9 @@ def AutoGenerate(csv_file_path):
             f.write(f"  * [{dept}](/Department/{dept}/README.md)\n")
             for category in sorted(dept_dict[dept].keys()):
                 f.write(f"    * [{category[:len(dept)]} {category[len(dept):]}](/Department/{dept}/{category}/README.md)\n")
-                for course in dept_dict[dept][category]:
+                # Sort courses by course number before writing
+                sorted_courses = sorted(dept_dict[dept][category], key=extract_course_number)
+                for course in sorted_courses:
                     f.write('      ' + course + '\n')
         f.write("* [Editors](Editors/README.md)\n")
         f.write("* [Contributors](Contributors/README.md)")
