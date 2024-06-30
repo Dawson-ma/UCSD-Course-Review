@@ -1,13 +1,13 @@
 # CSE 250A Probabilistic Reasoning and Learning
 - Average Rating: 9.0
 - Average Grading: 10.0
-- Average Loading: 7.0
+- Average Loading: 6.0
 ## 2023
 ### Fall
 - Professor: Taylor Berg-Kirkpatrick
 - Rating: 9/10
 - Grading: 10/10
-- Loading: 7/10
+- Loading: 6/10
 - Grade:
   - Avg: 3.98
   - A+: 35.0%

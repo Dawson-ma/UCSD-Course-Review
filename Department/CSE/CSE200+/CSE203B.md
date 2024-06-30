@@ -1,13 +1,13 @@
 # CSE 203B Convex Optimization
 - Average Rating: 7.0
 - Average Grading: 10.0
-- Average Loading: 8.0
+- Average Loading: 5.0
 ## 2024
 ### Winter
 - Professor: CK Cheng
 - Rating: 7/10
 - Grading: 10/10
-- Loading: 8/10
+- Loading: 5/10
 - Grade:
   - Avg: 4
   - A+: 15.0%
