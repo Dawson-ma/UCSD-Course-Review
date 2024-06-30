@@ -1,6 +1,5 @@
 # Department
 * [BENG](/Department/BENG/README.md)
-* [BENG ](/Department/BENG /README.md)
 * [CSE](/Department/CSE/README.md)
 * [ECE](/Department/ECE/README.md)
 * [MAE](/Department/MAE/README.md)
