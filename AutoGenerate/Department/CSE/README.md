@@ -1,0 +1,12 @@
+# CSE
+* [CSE 200+](/Department/CSE/CSE200+/README.md)
+  * [CSE 203B Convex Optimization](/Department/CSE/CSE200+/CSE203B.md)
+  * [CSE 224 Graduate Networked Systems](/Department/CSE/CSE200+/CSE224.md)
+  * [CSE 227 Graduate Computer Security](/Department/CSE/CSE200+/CSE227.md)
+  * [CSE 230 Programming Languages](/Department/CSE/CSE200+/CSE230.md)
+  * [CSE 234 Data Systems for Machine Learning](/Department/CSE/CSE200+/CSE234.md)
+  * [CSE 250A Probabilistic Reasoning and Learning](/Department/CSE/CSE200+/CSE250A.md)
+  * [CSE 256 Statistical Natural Language Processing](/Department/CSE/CSE200+/CSE256.md)
+  * [CSE 276C Mathematics for Robotics ](/Department/CSE/CSE200+/CSE276C.md)
+  * [CSE 284 Personal Genomics / Bioinformatics](/Department/CSE/CSE200+/CSE284.md)
+  * [CSE 291 Physics Simulation](/Department/CSE/CSE200+/CSE291.md)
